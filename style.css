@@ -1,0 +1,54 @@
+body{
+    margin:0;
+}
+.blog{
+    display:flex;
+}
+h2{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 48px;
+}
+ol{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 40px;
+}
+.header{
+ display: flex;
+ justify-content: center;
+ height: 770px;
+ background-image: url(img/карасуно1.png)
+}
+.nav>a{
+    text-decoration: none;
+    color: #E0D9D9;
+    font-weight: 600;
+    font-size: 35px;
+    font-family: 'Poppins';
+    width: 300px;
+    display: inline-block;
+}
+.blog{
+    display: flex;
+}
+h2{
+    font-family: 'Poppins';
+font-weight: 600;
+font-size: 48px;
+line-height: 64px;
+}
+.post{
+ position: absolute;
+ left: 96px;
+top: 25px;
+}
+.blog3{
+    position: relative;
+}
+.footer{
+    display: flex;
+    width: 1782px;
+    height: 1162px;
+    background-image: url(img/кенма\ и\ куро\ 1.png); 
+}
